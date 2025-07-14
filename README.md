@@ -1,0 +1,1 @@
+Just download the "Teto Tracker.zip" file, extract and run the .exe file ! if you want to view the source code open the "Teto Tracker.py" ! and.. thats about it... Suggest ideas in the discord server: https://discord.gg/z9h4gexERm
