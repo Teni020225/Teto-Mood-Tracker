@@ -1,3 +1,7 @@
+Dependencies:
+- Tkinter 
+- Pillow
+
 A simple Teto Mood Logger app with a timer, calendar that shows your mood for that date, a clock and obviously a mood logger !! Mood logs save in a "Mood Log.json" file ! You can export your mood data into a simple .csv file and view it any time ! Just download the "Teto Tracker.zip" file, extract and run the .exe file ! if you want to view the source code open the "Teto Tracker.py" ! and.. thats about it... Suggest ideas in the discord server: https://discord.gg/z9h4gexERm
 
 The Main App:
